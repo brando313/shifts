@@ -1,0 +1,15 @@
+{
+  "name": "Shift Tracker",
+  "short_name": "Shifts",
+  "description": "Track youth hockey ice time shift by shift.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EDF4F8",
+  "theme_color": "#0053A0",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
